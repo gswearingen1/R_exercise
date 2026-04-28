@@ -1,1 +1,1 @@
-install.packages(c('httr', 'httr2', 'rjson', 'jsonlite', 'tidyverse'))
+install.packages(c('httr2', 'rjson', 'tidyverse'))
